@@ -1,7 +1,7 @@
 # Janji
 Saya Putra Hadiyanto Nugroho dengan NIM 2308163 mengerjakan soal Latihan Modul 1 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-# Dokuemntasi Foto
+# Dokumentasi Foto
 ## 1.Tampilan Awal
 ![Screenshot](assets/1.TampilanAwal.png)
 ## 2.Tambah Data
